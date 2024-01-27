@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyExams</string>
+    <string name="myexams">MyExams</string>
+    <string name="login">Login</string>
+    <string name="matricola">Matricola</string>
+    <string name="password">Password</string>
+    <string name="accedi">ACCEDI</string>
+    <string name="non_hai_un_account_registrati">Non hai un account? Registrati</string>
+    <string name="registrazione">Registrazione</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="birthdate">Data di nascita</string>
+    <string name="confirm_password">Conferma password</string>
+    <string name="registration">Registrati</string>
+    <string name="add_exam">Aggiungi esame</string>
+    <string name="my_exams">I miei esami</string>
+    <string name="my_profile">Il mio profilo</string>
+    <string name="exam_name">Nome esame</string>
+    <string name="cfu">CFU (Crediti Formativi Universitari)</string>
+    <string name="mark">Voto</string>
+    <string name="add">Aggiungi</string>
+    <string name="average">Media aritmetica:</string>
+    <string name="average_2">Media ponderata:</string>
+    <string name="graduation_mark">Voto di Laurea:</string>
+    <string name="exam">Esame</string>
+    <string name="andrea_rossi">Andrea Rossi</string>
+    <string name="la_tua_matricola">La tua matricola:</string>
+    <string name="esci">ESCI</string>
+    <string name="cfu_2">CFU</string>
+</resources>
